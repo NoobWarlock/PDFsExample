@@ -1,0 +1,17 @@
+﻿{
+  "Id": "SyQI5r84w069ejh9x94FJw",
+  "Reference": "hlZrtZyQhE-xTWnnP-OzlQ/SyQI5r84w069ejh9x94FJw",
+  "ParentRef": "hlZrtZyQhE-xTWnnP-OzlQ/ZjBNiLe7EkO7PZU3cESMKA",
+  "Name": "Get Text 'graphic'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-04-14T02:58:09.9879745Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-14T03:01:47.5003478Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

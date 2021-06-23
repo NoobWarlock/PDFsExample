@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="-8, -8, 1382, 744" ContentHash="CguahdM9iUiaOxlMD0axQg" FilePath="C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\acrord32.exe" Selector="&lt;wnd app='acrord32.exe' cls='AcrobatSDIWindow' title='Acceso_CIC_UTM_Alumnos.pdf - Adobe Acrobat Reader DC (32-bit)'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0UQLm2s6aZ0uYt5ex7xhCmA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="27b915b71d1042a613cd2b5d0eabfc7b.png" xmlns="">0eSyRej_aPkykmbCkOnYRBw</imageRef>
+</TargetApp>

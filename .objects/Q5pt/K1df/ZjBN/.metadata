@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ZjBNiLe7EkO7PZU3cESMKA",
+  "Reference": "hlZrtZyQhE-xTWnnP-OzlQ/ZjBNiLe7EkO7PZU3cESMKA",
+  "ParentRef": "hlZrtZyQhE-xTWnnP-OzlQ/K1df8yCYPE2gMrQ2NSM58g",
+  "Name": "Use Application PDF",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-04-14T02:56:21.129004Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-14T02:56:21.129004Z"
+}

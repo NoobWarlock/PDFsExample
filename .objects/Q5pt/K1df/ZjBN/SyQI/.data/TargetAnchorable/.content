@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="xrYCYkU5skyQecO-_DWR-w" DesignTimeRectangle="110, 168, 803, 496" ElementType="Icon" FriendlyName="'graphic'" FullSelectorArgument="&lt;wnd aaname='Panel de documentos' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl role='graphic' idx='1' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Panel de documentos' cls='AVL_AVView' title='AVScrolledPageView' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl role='graphic' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='acrord32.exe' cls='AcrobatSDIWindow' title='Acceso_CIC_UTM_Alumnos.pdf - Adobe Acrobat Reader DC (32-bit)' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">00KIc8-ATQkieuelnYs3cYw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="15ac6427f3f21fe2628d7fb41447137b.png" xmlns="">0H6yKA5kiV0uNpYeRrHRwGg</imageRef>
+</TargetAnchorable>
